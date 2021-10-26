@@ -1,0 +1,45 @@
+body {
+    background-image: linear-gradient(45deg, orange, rgb(250, 123, 123));
+    background-repeat: no-repeat;
+}
+
+.headline {
+    display: flex;
+    justify-content: center;
+    font-size: 150px;
+}
+
+h2 {
+    text-align: center;
+    font-size: 50px;
+}
+
+.half {
+    width: 700px;
+    margin-left: 5px;
+    margin-bottom: 15px;
+    float: left;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    font-size: 30px;
+    text-align: center;
+}
+
+#order {
+    border: 2px solid black;
+    font-size: 50px;
+    text-align: center;
+    height: 65px;
+    width: 250px;
+    margin: 100px;
+    margin-left: 210px;
+    background-color: rgb(106, 241, 241);
+    border-radius: 5%;
+}
+
+a {
+    text-decoration: none;
+}
